@@ -1,7 +1,5 @@
-# Upcoming wkhtmlpdf version is '0.12.1' with the github sha '2b560d5'
-#
-default['wkhtmltopdf']['version']     = '0.12.0'
-default['wkhtmltopdf']['build_sha']   = '03c001d'
+default['wkhtmltopdf']['version']     = '0.12.2'
+default['wkhtmltopdf']['build_sha']   = 'e3e0e31'
 default['wkhtmltopdf']['install_dir'] = '/usr/local/bin'
 default['wkhtmltopdf']['lib_dir']     = ''
 
